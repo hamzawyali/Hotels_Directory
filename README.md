@@ -6,4 +6,3 @@
 - DB_DATABASE=GIATA on .env file with proper DB_USERNAME and DB_PASSWORD
 - php artisan queue:table
 - php artisan migrate
-# Hotels_Directory
